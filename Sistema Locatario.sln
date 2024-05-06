@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema Locatario", "Sistema Locatario\Sistema Locatario.csproj", "{666114CA-A505-4985-84C5-10478286662B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666114CA-A505-4985-84C5-10478286662B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666114CA-A505-4985-84C5-10478286662B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666114CA-A505-4985-84C5-10478286662B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666114CA-A505-4985-84C5-10478286662B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F0D4E1-7CF7-4693-865C-49403B3F1CDD}
+	EndGlobalSection
+EndGlobal

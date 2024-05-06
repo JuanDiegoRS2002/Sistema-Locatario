@@ -1,0 +1,98 @@
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Sistema Locatario.exe.config
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Sistema Locatario.exe
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Sistema Locatario.pdb
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Categorias.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Cliente.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Cobro_Pedido.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Consultar_FrutasyVerduras.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Consultar_Pedido.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Consultar_Salarios.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.ConsultarGeneral_CobroPedido.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Consultar_CobroPedido.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Consultorio_SalariosGeneral.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.SistemaLocatario.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.FrutasVerduras.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Pedidos.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.SaldosTrabajadores.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Trabajador.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.exe
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.pdb
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Consultar_PedidosIndividual.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.ConsultarPedido_Individual.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.ViajesXProducto_Registrar.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Consulta_Individual_Viajes.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.Verificar_ViajeXProducto.resources
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\stdole.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema Locatario.exe.config
+C:\Users\Lenovo\Desktop\Universidad\Analisis Y Modelado\Proyecto\Sistema Locatario\Sistema Locatario\obj\Debug\Sistema_Locatario.REPORTES.resources
